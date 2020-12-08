@@ -1,5 +1,5 @@
-# Student_Repository
-The Student Repository has the following features:
+# Enrollment_System
+The Enrollment System has the following features:
 - Print all students
 - Print invalid email addresses
 - Print average number of class days for each student
