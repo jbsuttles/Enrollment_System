@@ -6,3 +6,5 @@ The Student Repository has the following features:
 - Print students in requested degree program
 - Remove student
  
+Technology used:
+• C++
